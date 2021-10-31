@@ -1,1 +1,1 @@
-## This is a bootcamp project by @buildspace. It's a really good web3.0 bootcamp and Farza helps you understand most of the things though few things you need to research by yourself :)
+### This is a bootcamp project by [@buildspace](https://github.com/buildspace). It's a really good web3.0 bootcamp and [Farza](https://farza.lol/) helps you understand most of the things though few things you need to research by yourself :)
